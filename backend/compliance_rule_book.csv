@@ -1,0 +1,63 @@
+country,hs_prefix,keyword,requirement_code,requirement_name,agency,details,severity,source
+AE,,live animals,MOCCAE_ANIMALS,Live animals import permit,Ministry Of Climate Change & Environment,Permit required for live animals and products of animal origin,permit,Appendix I
+AE,,animal products,MOCCAE_ANIMAL_PROD,Animal products import permit,Ministry Of Climate Change & Environment,Permit required for products of animal origin,permit,Appendix I
+AE,,explosives,MOI_EXPLOSIVES,Explosives import permit,Ministry Of Interior,Permit required for explosives and their parts/accessories,permit,Appendix I
+AE,,arms,MOI_ARMS,Arms import permit,Ministry Of Interior,Permit required for arms and their parts/accessories,permit,Appendix I
+AE,,ammunition,MOI_AMMO,Ammunition import permit,Ministry Of Interior,Permit required for ammunition and their parts/accessories,permit,Appendix I
+AE,,vegetable products,DM_VEG,Vegetable products permit,Dubai Municipality,Permit required for vegetable products,permit,Appendix I
+AE,,prepared foodstuff,DM_FOOD,Prepared foodstuff permit,Dubai Municipality,Permit required for prepared food stuff,permit,Appendix I
+AE,,chemical products,DM_CHEM,Chemical products permit,Dubai Municipality,Permit required for products of chemical,permit,Appendix I
+AE,,alcoholic beverages,DP_ALCOHOL,Alcoholic beverages permit,Dubai Police,Permit required for alcoholic beverages,permit,Appendix I
+AE,,industrial raw materials,MOE_INDUSTRIAL,Industrial raw materials permit,Ministry Of Economy,Permit required for industrial raw materials,permit,Appendix I
+AE,,pharmaceutical products,MOH_PHARMA,Pharmaceutical import permit,Ministry Of Health,Permit required for pharmaceutical products,permit,Appendix I
+AE,,medical instruments,MOH_MEDICAL,Medical instruments permit,Ministry Of Health,Permit required for medical/surgical instrumental and apparatus,permit,Appendix I
+AE,,tires,ESMA_TIRES,Tires standardization,Emirates Authority for Standardization and Metrology,Standardization required for tires,permit,Appendix I
+AE,,drinking water,ESMA_WATER,Drinking water standardization,Emirates Authority for Standardization and Metrology,Standardization required for drinking water,permit,Appendix I
+AE,,printed books,NMC_MEDIA,Printed materials permit,National Media Council,Permit required for printed books newspapers and similar products,permit,Appendix I
+AE,,newspapers,NMC_NEWS,Newspapers permit,National Media Council,Permit required for newspapers and similar products,permit,Appendix I
+AE,,artwork,NMC_ART,Artwork permit,National Media Council,Permit required for work art collectors pieces and antiques,permit,Appendix I
+AE,,antiques,NMC_ANTIQUES,Antiques permit,National Media Council,Permit required for collectors pieces and antiques,permit,Appendix I
+AE,,pearls,DMCC_PEARLS,Pearls permit,DMCC,Permit required for pearls,permit,Appendix I
+AE,,diamonds,DMCC_DIAMONDS,Diamonds permit,DMCC,Permit required for diamonds and rough diamonds,permit,Appendix I
+AE,,rough diamonds,DMCC_ROUGH_DIAMONDS,Rough diamonds permit,DMCC,Permit required for rough diamonds,permit,Appendix I
+AE,,lasers,GSM_LASERS,Lasers permit,General Secretariat Of Municipalities,Permit required for lasers,permit,Appendix I
+AE,,dangerous waste,GSM_WASTE,Dangerous waste permit,General Secretariat Of Municipalities,Permit required for dangerous waste,permit,Appendix I
+AE,,telecommunication equipment,TRA_TELECOM,Telecom equipment permit,Telecommunications Regulatory Authority,Permit required for telecommunication equipment,permit,Appendix I
+AE,,nuclear reactors,FANR_NUCLEAR,Nuclear materials permit,Federal Authority for Nuclear Regulation,Permit required for nuclear reactors and radio transmitters,permit,Appendix I
+AE,,radio transmitters,FANR_RADIO,Radio transmitters permit,Federal Authority for Nuclear Regulation,Permit required for radio transmitters,permit,Appendix I
+AE,,boats,COASTGUARD_BOATS,Boats permit,H.Q. Coast Guard Group,Permit required for boats and cruise ships,permit,Appendix I
+AE,,cruise ships,COASTGUARD_SHIPS,Cruise ships permit,H.Q. Coast Guard Group,Permit required for cruise ships,permit,Appendix I
+AE,,narcotics,NARCOTICS_BAN,Narcotics prohibition,Dubai Customs,Smuggling of narcotics is prohibited and subject to interdiction,block,Section 1
+AE,,counterfeit goods,IPR_COUNTERFEIT,Counterfeit goods prohibition,Dubai Customs,Protection of intellectual property rights - counterfeit goods prohibited,block,Section 21
+AE,,pirated goods,IPR_PIRATED,Pirated goods prohibition,Dubai Customs,Protection of intellectual property rights - pirated goods prohibited,block,Section 21
+AE,,alcoholic beverages,ALCOHOL_DUTY,Alcoholic beverages duty,Dubai Customs,Duty on alcoholic products levied at 50% of CIF value,info,Section 7
+AE,2401,tobacco unmanufactured,TOBACCO_UNMAN,Unmanufactured tobacco duty,Dubai Customs,Ad valorem duty 100% or AED 20 per gross kg whichever is higher,info,Appendix E
+AE,2402,cigars,TOBACCO_CIGARS,Cigars duty,Dubai Customs,Ad valorem duty 100% or AED 150 per direct covered kg whichever is higher,info,Appendix E
+AE,2402,cigarettes,TOBACCO_CIGS,Cigarettes duty,Dubai Customs,Ad valorem duty 100% or AED 100 per 1000 cigarettes whichever is higher,info,Appendix E
+AE,2403,manufactured tobacco,TOBACCO_MFG,Manufactured tobacco duty,Dubai Customs,Ad valorem duty 100% or AED 40 per kg whichever is higher,info,Appendix E
+AE,,diplomatic goods,EXEMPT_DIPLOMATIC,Diplomatic goods exemption,Dubai Customs,Goods imported by International Organisations Diplomatic Corps and Consulates are exempted from duty,exempt,Section 13.1
+AE,,military goods,EXEMPT_MILITARY,Military goods exemption,Dubai Customs,Arms ammunition military equipment and means of transport for Military and Internal Security Forces exempted from duty with competent authority letter,exempt,Section 13.2
+AE,,personal effects,EXEMPT_PERSONAL,Personal effects exemption,Dubai Customs,Personal effects and used household items for nationals returning or foreigners first arrival exempted from duty subject to conditions,exempt,Section 13.3
+AE,,household items,EXEMPT_HOUSEHOLD,Household items exemption,Dubai Customs,Used household items within limit of furnishing a house exempted from duty subject to conditions,exempt,Section 13.3
+AE,,passenger goods,EXEMPT_PASSENGER,Passenger goods exemption,Dubai Customs,Gift items up to AED 3000 cigarettes up to 400 cigars up to 50 tobacco up to 500g alcohol up to 4L beer up to 2 cartons exempted,exempt,Section 13.4
+AE,,charitable goods,EXEMPT_CHARITY,Charitable goods exemption,Dubai Customs,Goods imported by charity and philanthropic organizations for humane social educational scientific or religious purposes exempted from duty with competent authority approval,exempt,Section 13.5
+AE,8703218,vehicles for disabled,EXEMPT_DISABLED_VEH,Disabled vehicles exemption,Dubai Customs,Vehicles specially designed for disabled driven by hands exempted from duty - not to be disposed within 3 years,exempt,Section 13.6
+AE,8712002,cycles for disabled,EXEMPT_DISABLED_CYCLE,Disabled cycles exemption,Dubai Customs,Cycles for the disabled exempted from duty,exempt,Section 13.6
+AE,9021106,crutches,EXEMPT_CRUTCHES,Crutches exemption,Dubai Customs,Crutches excluding walking sticks exempted from duty,exempt,Section 13.6
+AE,9021400,hearing aids,EXEMPT_HEARING_AIDS,Hearing aids exemption,Dubai Customs,Hearing aids excluding parts exempted from duty,exempt,Section 13.6
+AE,9021902,appliances for blind,EXEMPT_BLIND_APPLIANCES,Blind appliances exemption,Dubai Customs,Electronic appliances for the blind exempted from duty,exempt,Section 13.6
+AE,,returned goods,EXEMPT_RETURNED,Returned goods exemption,Dubai Customs,Goods previously exported to ROW returning within time limits and meeting identification criteria exempted from duty,exempt,Section 13.7
+AE,,industrial machinery,EXEMPT_INDUSTRIAL,Industrial machinery exemption,Dubai Customs,National Industrial License holders can claim duty exemptions for machinery and raw materials for manufacturing with Ministry of Economy approval,exempt,Section 13.8
+AE,,industrial raw materials,EXEMPT_IND_RAW,Industrial raw materials exemption,Dubai Customs,Raw materials imported by National Industrial License holders for manufacturing exempted with Ministry of Economy approval,exempt,Section 13.8
+AE,,free trade agreement goods,FTA_GAFTA,GAFTA exemption,Dubai Customs,Goods produced in GAFTA member countries exempted from duty with certificate of origin,exempt,Section 14.1
+AE,,singapore goods,FTA_SINGAPORE,Singapore FTA exemption,Dubai Customs,Specific goods manufactured in Singapore exempted when imported to GCC Member States,exempt,Section 14.2
+AE,,efta goods,FTA_EFTA,EFTA exemption,Dubai Customs,Products originating in EFTA States exempted from duty with Movement Certificate EUR.1,exempt,Section 14.3
+AE,,cigarettes passenger,PASSENGER_CIGS,Passenger cigarettes limit,Dubai Customs,Cigarettes must not exceed 400 for passenger exemption - passenger age 18+,info,Section 13.4
+AE,,cigars passenger,PASSENGER_CIGARS,Passenger cigars limit,Dubai Customs,Cigars must not exceed 50 for passenger exemption - passenger age 18+,info,Section 13.4
+AE,,tobacco passenger,PASSENGER_TOBACCO,Passenger tobacco limit,Dubai Customs,Minced or pressed or mild tasting tobacco not exceeding 500 grams for passenger exemption,info,Section 13.4
+AE,,alcohol passenger,PASSENGER_ALCOHOL,Passenger alcohol limit,Dubai Customs,Alcoholic beverages must not exceed 4 liters for passenger exemption - passenger age 18+,info,Section 13.4
+AE,,beer passenger,PASSENGER_BEER,Passenger beer limit,Dubai Customs,Beer must not exceed 2 cartons of 24 cans volume not more than 355ml each for passenger exemption - passenger age 18+,info,Section 13.4
+AE,,restricted goods,RESTRICTED_GENERAL,Restricted goods general,Dubai Customs,Certain goods require permits from competent authority and cannot be imported exported or transited without approval,permit,Section 11
+AE,,prohibited goods,PROHIBITED_GENERAL,Prohibited goods general,Dubai Customs,Certain goods cannot be imported exported or transited as per GCC Customs Tariff Codes,block,Section 11
+AE,8702,vehicles gcc duty,VEHICLES_GCC_DUTY,Vehicles GCC duty transfer,Dubai Customs,For new or used vehicles under HS 8702 and 8703 Due number granted only if moved between GCC states within 2 years from customs duty payment date,info,Section 17
+AE,8703,vehicles gcc duty,VEHICLES_GCC_DUTY_8703,Vehicles GCC duty transfer HS 8703,Dubai Customs,For new or used vehicles under HS 8702 and 8703 Due number granted only if moved between GCC states within 2 years from customs duty payment date,info,Section 17
