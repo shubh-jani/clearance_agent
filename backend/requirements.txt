@@ -1,6 +1,6 @@
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
-pandas==2.1.3
+pandas>=2.2.3,<2.4   # updated for Python 3.13 compatibility
 sentence-transformers==2.2.2
 scikit-learn==1.3.2
 numpy==1.26.2
