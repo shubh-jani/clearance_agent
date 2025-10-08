@@ -1,0 +1,9 @@
+[build]
+commands = [
+  "python -m pip install --upgrade pip",
+  "pip install -r requirements.txt",
+  "pip install --upgrade sentence-transformers"
+]
+
+[start]
+cmd = "uvicorn app:app --host 0.0.0.0 --port $PORT"
